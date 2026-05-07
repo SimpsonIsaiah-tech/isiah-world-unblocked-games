@@ -13,6 +13,7 @@ import GamePortal from "./components/GamePortal";
 const games = gamesData;
 
 export default function App() {
+  console.log("App component rendering...");
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedGame, setSelectedGame] = useState(null);
   const [activeCategory, setActiveCategory] = useState("All");
