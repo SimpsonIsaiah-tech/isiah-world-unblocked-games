@@ -46,13 +46,5 @@
     "url": "https://towergame.app/",
     "category": "Skill",
     "thumbnail": "/assets/thumbnails/tower-stack.webp"
-  },
-  {
-    "id": "1v1-lol",
-    "title": "1v1.LOL",
-    "description": "Competitive 3D third-person shooter and building game.",
-    "url": "https://1v1.lol/",
-    "category": "Action",
-    "thumbnail": "/assets/thumbnails/1v1lol.webp"
   }
 ]
