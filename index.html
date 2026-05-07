@@ -7,20 +7,7 @@
   </head>
   <body>
     <div id="root"></div>
-    <script>
-      window.onerror = function(msg, url, lineNo, columnNo, error) {
-        var root = document.getElementById('root');
-        if (root && root.innerHTML === '') {
-          root.innerHTML = '<div style="color: white; padding: 20px; font-family: sans-serif;">' +
-            '<h1>App Failed to Load</h1>' +
-            '<p>' + msg + '</p>' +
-            '<p>At ' + url + ':' + lineNo + '</p>' +
-            '</div>';
-        }
-        return false;
-      };
-    </script>
-    <script type="module" src="/src/main.jsx"></script>
+    <script type="module" src="./src/main.jsx"></script>
   </body>
 </html>
 

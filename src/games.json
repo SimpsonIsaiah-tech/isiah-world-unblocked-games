@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "Speed down high-speed slopes, avoiding obstacles and staying on the platform.",
+    "url": "https://slope.fyi/",
+    "category": "Action",
+    "thumbnail": "https://images.unsplash.com/photo-1614294149010-950b698f72c0?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "minecraft-classic",
+    "title": "Minecraft Classic",
+    "description": "The original Minecraft creative mode from 2009, playable in your browser.",
+    "url": "https://classic.minecraft.net/",
+    "category": "Creative",
+    "thumbnail": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "url": "https://play2048.co/",
+    "category": "Puzzle",
+    "thumbnail": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "subway-surfers",
+    "title": "Subway Surfers",
+    "description": "Run away from the inspector and his dog across the subway tracks.",
+    "url": "https://subwaysurfers.com/",
+    "category": "Action",
+    "thumbnail": "https://images.unsplash.com/photo-1628277611967-817838531109?w=800&auto=format&fit=crop&q=60"
+  }
+]
